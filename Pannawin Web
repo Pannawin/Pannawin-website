@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PannawinWeb</title>
+
+<style>
+h1 {background-color:Cyan;font-family:fantasy;}
+p{
+    font-family:Lucida Sans;}
+
+body {
+  background-image: url('https://img.freepik.com/free-photo/soft-wave-sandy-beach-background_34142-255.jpg?size=626&ext=jpg');
+}
+</style>
+<body>
+ 
+
+<h1><font color=blue><font size="6">Pannawin</h1>   
+         <p><font color=blue>...........assalammulaikum</font></p>
+  <form method= "post" action="test.php" name="myform" >
+         <form> first name:<input type="text" name="first name" /><br/>
+  Last name:<input type="text" name="last name" /><br/>
+     number:<input type="text" name="number" /><br/>
+       Email:<input type="text" name="Email" /><br/>
+       <input type="submit" value="send"/>
+ 
+</form>
+<p align=right><font color=Maroon;>contact me 084 320 1410<a href='https://www.facebook.com/henza.zaza/'> 
+    <img border = '0' src ='https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/social-facebook-icon.png' width='10%'> 
+</a></p>
+
+<h2><button style= background-color:SkyBlue><a href=https://docs.google.com/document/d/1hqz83I9iBG9BOvgWQl0LBu2Mg16vHsuBY8YoI5ceyMU/edit?usp=sharing><font size="4">my diary</button> 
+
+
+
+<h3><button style= background-color:MintCream><a href=https://docs.google.com/document/d/1B6fN7_QrKeFF0eFmKPLfRPXGxPvCEkB0wsHXEXrfspM/edit?usp=sharing><font size="4">my history</button></h3>
+<h4><button style= background-color:Moccasin><a href=https://drive.google.com/drive/folders/19Lp3st3cxi3QnTS_UBD6LIa00NcKklqO?usp=sharing><font size="4">Gallery</button></h4>
+<h5><button style= background-color:Plum><a href=https://www.youtube.com/channel/UCkrXiCSyO8rldXt110WGYRQ><font size="4">other</button></h5>
+<form id="form">
+<input type=search id="query" name="q"placeholder=Search...'>
+<button>Search</button>
+</form>
